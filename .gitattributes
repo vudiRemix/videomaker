@@ -1,0 +1,3 @@
+*.bat -text
+*.sh text eol=lf
+*.mp4 binary
